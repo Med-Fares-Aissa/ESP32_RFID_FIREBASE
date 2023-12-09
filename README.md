@@ -34,7 +34,7 @@ This project utilizes an ESP32 microcontroller to interface with an RFID sensor,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/esp32-rfid-firebase.git
+    git clone https://github.com/Med-Fares-Aissa/ESP32_RFID_FIREBASE
     ```
 
 2. Open the Arduino IDE and install the ESP32 board support. Refer to the [official ESP32 Arduino core installation guide](https://github.com/espressif/arduino-esp32#installation-instructions) for instructions.
